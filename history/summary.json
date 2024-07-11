@@ -40,19 +40,19 @@
     "url": "https://www.puce.edu.ec/",
     "icon": "https://icons.duckduckgo.com/ip3/www.puce.edu.ec.ico",
     "slug": "puce",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4801,
-    "timeDay": 4993,
-    "timeWeek": 4822,
-    "timeMonth": 4801,
-    "timeYear": 4801,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 4771,
+    "timeDay": 4750,
+    "timeWeek": 4782,
+    "timeMonth": 4771,
+    "timeYear": 4771,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 46
     }
   },
   {
